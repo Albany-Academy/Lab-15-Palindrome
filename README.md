@@ -1,4 +1,4 @@
-# Lab16-Palindrome Checker
+# Lab-15-Palindrome Checker
 
 A palindrome is a word that is read the same forward and backward.
 
